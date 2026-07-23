@@ -1,6 +1,6 @@
 ## 🏋️‍♂️ Coding Challenge
 
-Welcome! This repository is **not a project** - it is my personal, public training ground. 
+Welcome! This repository is **not a project**, but a training ground. 
 
 My goal here is simple: **to build fluency** in **C, C++, and Python** through relentless problem-solving. By learning the core syntax, data structures, and memory management here, I can focus 100% on architecture and high-level details when building actual projects.
 
